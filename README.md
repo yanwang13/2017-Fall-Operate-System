@@ -2,7 +2,6 @@
 
 ## HW1 > simple shell
 - using frok, exec, wait to implement a simple shell
-- usage: <porgram> <arg1> <arg2> ......
 - also done I/O redirection and pipeline
 
 ## HW2 > Shared memory
@@ -20,3 +19,15 @@
 
 ## HW4 > Thread Pool
 - quicksort with a tread pool
+- using semaphore to control threads
+- master thread signals a sleeping thread to work when new task comes in
+
+## HW5 > Page Cache Simulation
+- implementing FIFO and LRU
+
+## HW6 > A File Find Utility
+- implement a subnet of the "find" command
+- finding files by name, inode, and file size
+- recursively descending into sub-directories to find all matches
+
+## HW7 > File Fragmentation and Reproduction
